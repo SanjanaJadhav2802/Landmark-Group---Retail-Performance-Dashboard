@@ -21,16 +21,16 @@ It enables stakeholders to track KPIs, identify trends, and make data-driven dec
 ## 📊 Dashboard Preview
 
 ### 🔹 Page 1: Executive Overview
-![Executive Overview](images/page1.png)
+![Executive Overview](images/Page1.png)
 
 ### 🔹 Page 2: Sales & Product Insight
-![Sales and Product Insight](images/page2.png)
+![Sales and Product Insight](images/Page2.png)
 
 ### 🔹 Page 3: Customer & Store Insight
-![Customer and Store Insight](images/page3.png)
+![Customer and Store Insight](images/Page3.png)
 
 ### 🔹 Page 4: Detailed Sales Analysis (Drill-through)
-![Detailed Sales Insight](images/page4.png)
+![Detailed Sales Insight](images/Page4.png)
 
 ---
 
